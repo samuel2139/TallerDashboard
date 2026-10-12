@@ -255,3 +255,5 @@ def update_output_div(date, hour, proy):
 # Run the server
 if __name__ == "__main__":
     app.run(debug=True)
+app . r un _s erv er ( debug = True )if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=8050, debug=False)
