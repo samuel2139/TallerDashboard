@@ -255,3 +255,4 @@ def update_output_div(date, hour, proy):
 # Run the server
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=8050, debug=False)# cambio desde rama samuel-viz
+# cambio sincronizado con GitHub
